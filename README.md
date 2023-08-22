@@ -1,5 +1,5 @@
 # workers-backend-apis
-this project contains the backend apis integurating postman collection
+this project contains the backend apis - postman collection
 - database design
 - installing JWT
 - multi authentication using jwt
